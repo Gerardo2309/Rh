@@ -1,0 +1,18 @@
+Trabajadores
+-id
+-Nombre(s)
+-ApellidoP
+-ApellidoM
+-Telefono
+
+DetalleTrabajadores
+
+
+FormSolicitud
+-rfc
+-nombres
+-apellido paterno
+-apellido materno
+-telefono
+-correo
+-archivo
